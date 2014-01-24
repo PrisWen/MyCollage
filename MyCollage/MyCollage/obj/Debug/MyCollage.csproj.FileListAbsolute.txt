@@ -1,0 +1,60 @@
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\App.g.i.cs
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\App.g.cs
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\Common\StandardStyles.g.i.cs
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\Common\StandardStyles.g.cs
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\MainPage.g.i.cs
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\MainPage.g.cs
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\XamlTypeInfo.g.cs
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\App.xaml
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\bin\Debug\MyCollage.exe
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\bin\Debug\MyCollage.pdb
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\bin\Debug\resources.pri
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\bin\Debug\AppxManifest.xml
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\bin\Debug\MyCollage.build.appxrecipe
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\Common\StandardStyles.xaml
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\MainPage.xaml
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\MyCollage.exe
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\MyCollage.pdb
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\priconfig.xml.intermediate
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\layout.resfiles.intermediate
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\resources.resfiles.intermediate
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\pri.resfiles.intermediate
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\priconfig.xml
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\layout.resfiles
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\resources.resfiles
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\pri.resfiles
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\LanguageQualifiers.txt
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\ProjectArchitectures.txt
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\UserControls\TemplateControl.g.i.cs
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\UserControls\TemplateControl.g.cs
+E:\carrera\Semestres UMSA\7 Septimo Semestre\proyecto geografia\MyCollage\MyCollage\obj\Debug\UserControls\TemplateControl.xaml
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\MyCollage.exe
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\MyCollage.pdb
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\resources.pri
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\AppxManifest.xml
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\MyCollage.build.appxrecipe
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\App.g.i.cs
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\App.g.cs
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\MainPage.g.i.cs
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\MainPage.g.cs
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\UserControls\TemplateControl.g.i.cs
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\UserControls\TemplateControl.g.cs
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\App.xaml
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\MainPage.xaml
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\UserControls\TemplateControl.xaml
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\MyCollage.exe
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\MyCollage.pdb
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\priconfig.xml.intermediate
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\layout.resfiles.intermediate
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\resources.resfiles.intermediate
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\pri.resfiles.intermediate
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\priconfig.xml
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\layout.resfiles
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\resources.resfiles
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\pri.resfiles
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\LanguageQualifiers.txt
+C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WENDY</Machine>
+    <WindowsUser>Priscila Wendy</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\MyCollage.exe">
+      <PackagePath>MyCollage.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\MyCollage.pdb">
+      <PackagePath>MyCollage.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\Assets\Plantillas\kyuhyun.jpg">
+      <PackagePath>Assets\Plantillas\kyuhyun.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\UserControls\TemplateControl.xaml">
+      <PackagePath>UserControls\TemplateControl.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

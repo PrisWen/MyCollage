@@ -1,0 +1,86 @@
+﻿<Page
+    x:Class="MyCollage.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MyCollage"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="2*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel>
+            <Button Name="btnA">Add</Button>
+        </StackPanel>
+        <Canvas Margin="200,50,200,50" 
+                Background="Red" Grid.Row="1">
+            <ListBox x:Name="PhotoTemplate" />
+            <!--<StackPanel Orientation="Horizontal" >
+                <StackPanel>
+                    <Image Source="/Assets/Plantillas/Kyuhyun.jpg"
+                           Width="200"
+                           Height="225"
+                           Name="img0"/>
+                    <Image Source="/Assets/Plantillas/Kyuhyun.jpg"
+                           Width="419"
+                           Height="225"
+                           Name="img1"/>
+                    
+                </StackPanel>
+                <StackPanel>
+                    <Image Source="/Assets/Plantillas/Kyuhyun.jpg"
+                           Width="200"
+                           Height="225"
+                           Name="img2"/>
+                    <Image Source="/Assets/Plantillas/Kyuhyun.jpg"
+                           Width="419"
+                           Height="225"
+                           Name="img3"/>
+
+                </StackPanel>
+            </StackPanel>-->
+            <!--<StackPanel Orientation="Horizontal" >
+                <StackPanel>
+                    
+                    <Image Source="/Assets/Plantillas/Kyuhyun.jpg"
+                           Width="419"
+                           Height="225"
+                           Name="img0"/>
+                    <Image Source="/Assets/Plantillas/Kyuhyun.jpg"
+                           Width="419"
+                           Height="225"
+                           Name="img1"/>
+                </StackPanel>
+                <Image Source="/Assets/Plantillas/Kyuhyun.jpg"
+                           Width="520"
+                           Height="450"
+                           Name="img2"/>
+                
+            </StackPanel>-->
+        </Canvas>
+
+
+        <!--<Canvas>
+            <Image Source="/Assets/Logo.png"/>
+            <Image Source="/Assets/Logo.png"/>
+        </Canvas>-->
+    </Grid>
+    <Page.BottomAppBar>
+        <AppBar >
+            <Grid>
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="btnAdd" Style="{StaticResource AddAppBarButtonStyle}" Click="btnAdd_Click"/>
+                    <Button x:Name="btnSquare" Style="{StaticResource SquareAppBarButtonStyle}" Click="btnSquare_Click"></Button>
+                    <Button x:Name="btnFree" Style="{StaticResource FreeAppBarButtonStyle}" Click="btnFree_Click"></Button>
+                    <Button x:Name="btnSave" Style="{StaticResource SaveLocalAppBarButtonStyle}" Click="btnSave_Click"/>
+                    
+                </StackPanel>
+            </Grid>
+        </AppBar>
+    </Page.BottomAppBar>
+</Page>

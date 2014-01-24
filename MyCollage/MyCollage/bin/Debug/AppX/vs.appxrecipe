@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WENDY</Machine>
+    <WindowsUser>Priscila Wendy</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>49A1F02E0C4A92DB39C76F25DC83503F492FFDBF9A1DA94567505B65945C8123</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f4d70606-cf4a-4916-9a3c-39e2cd535a28_1.0.0.0_neutral__hvee8dd4m5f0t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f4d70606-cf4a-4916-9a3c-39e2cd535a28_hvee8dd4m5f0t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f4d70606-cf4a-4916-9a3c-39e2cd535a28</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Priscila Wendy</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-23T03:01:05.174</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\MyCollage.exe">
+      <PackagePath>MyCollage.exe</PackagePath>
+      <Modified>2014-01-24T20:41:38.860</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\MyCollage.pdb">
+      <PackagePath>MyCollage.pdb</PackagePath>
+      <Modified>2014-01-24T20:41:38.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T00:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T00:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T00:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T00:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\Assets\Plantillas\kyuhyun.jpg">
+      <PackagePath>Assets\Plantillas\kyuhyun.jpg</PackagePath>
+      <Modified>2014-01-22T23:42:39.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-01-22T22:42:40.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2014-01-24T20:20:14.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-01-24T20:20:13.705</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\UserControls\TemplateControl.xaml">
+      <PackagePath>UserControls\TemplateControl.xaml</PackagePath>
+      <Modified>2014-01-23T03:29:11.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Priscila Wendy\Documents\GitHub\MyCollage\MyCollage\MyCollage\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-01-23T03:01:05.045</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
